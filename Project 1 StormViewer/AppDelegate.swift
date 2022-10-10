@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Project3 Social Media
+//  Project 1 StormViewer
 //
-//  Created by Jomar Leano on 10/9/22.
+//  Created by Jomar Leano on 9/30/22.
 //
 
 import UIKit
