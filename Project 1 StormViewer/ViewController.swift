@@ -27,6 +27,7 @@ class ViewController: UITableViewController {
             }
         }
         pictures.sort();
+        //Hello test
     }
     
     //numberOfRows
